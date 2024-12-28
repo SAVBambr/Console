@@ -1,0 +1,9 @@
+/Users/maria/RiderProjects/ConsoleApplication1/ConsoleApplication1/obj/Debug/ConsoleApplication1.csproj.AssemblyReference.cache
+/Users/maria/RiderProjects/ConsoleApplication1/ConsoleApplication1/obj/Debug/ConsoleApplication1.csproj.CoreCompileInputs.cache
+/Users/maria/RiderProjects/ConsoleApplication1/ConsoleApplication1/bin/Debug/ConsoleApplication1.exe
+/Users/maria/RiderProjects/ConsoleApplication1/ConsoleApplication1/bin/Debug/ConsoleApplication1.pdb
+/Users/maria/RiderProjects/ConsoleApplication1/ConsoleApplication1/bin/Debug/Newtonsoft.Json.dll
+/Users/maria/RiderProjects/ConsoleApplication1/ConsoleApplication1/bin/Debug/Newtonsoft.Json.xml
+/Users/maria/RiderProjects/ConsoleApplication1/ConsoleApplication1/obj/Debug/ConsoleApplication1.csproj.CopyComplete
+/Users/maria/RiderProjects/ConsoleApplication1/ConsoleApplication1/obj/Debug/ConsoleApplication1.exe
+/Users/maria/RiderProjects/ConsoleApplication1/ConsoleApplication1/obj/Debug/ConsoleApplication1.pdb
